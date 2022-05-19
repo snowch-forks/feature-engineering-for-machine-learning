@@ -1,6 +1,7 @@
 ﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
 [![License https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/feature-engineering-for-machine-learning/blob/master/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
+[![Run on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snowch-forks/feature-engineering-for-machine-learning/main?labpath=work/README.md)
 
 ## Feature Engineering for Machine Learning - Code Repository
 
